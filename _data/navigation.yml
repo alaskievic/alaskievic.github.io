@@ -1,0 +1,21 @@
+# main links links
+main:
+
+  - title: "About Me"
+    url: /
+
+  - title: "CV"
+    url: /assets/files/cv_andrei.pdf
+
+  - title: "Research"
+    url: /papers/
+
+  - title: "Cool Figures"
+    url: /cool_figures/
+
+  - title: "Snap"
+    url: /snap/
+
+
+ #  - title: "Blog Posts"
+ #    url: /year-archive/
