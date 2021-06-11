@@ -21,10 +21,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <small>[ <a href="#/" onclick="visib('combooms')">Abstract</a> | [Draft][master-thesis] </small>
 
 <div id="combooms" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study the effects of an agricultural commodity price boom on structural transformation. We construct a shift-share measure of exposure to the commodity shock by combining climate- and soil-induced variation in agricultural production patterns among municipalities in Brazil with fluctuations in international commodity prices between 2000 and 2010. We show that labor was reallocated away from agriculture and into the manufacturing sector in locations more exposed to the commodities boom. Using data from the Population and Agricultural Censuses, we argue that the results are consistent with greater use of capital inputs in agriculture, that worked as substitutes for farm labor, and greater land inequality in more exposed locations, which ultimately displaced workers from the agricultural sector.
+This paper studies the effects of an agricultural commodity price boom on structural transformation. I construct a shift-share measure of exposure to the commodity shock by combining climate- and soil-induced variation in agricultural production patterns among municipalities in Brazil with fluctuations in international commodity prices between 2000 and 2010. I show that labor was reallocated away from agriculture towards the manufacturing sector in locations more exposed to the commodities boom. Using data from the Population and Agricultural Censuses, I argue that the results are consistent with greater use of capital inputs in agriculture, which worked as substitutes for farm labor, and greater land inequality in more exposed locations, which ultimately displaced workers from the agricultural sector.
 </small><br><br/></div>
 
-[master-thesis]:{{ site.baseurl }}{% link assets/files/Dissertation_Draft___Andrei_Laskievic.pdf %}
+[master-thesis]:{{ site.baseurl }}{% link assets/files/booms_change_draft.pdf %}
 
 
 # <center> Monograph </center>
