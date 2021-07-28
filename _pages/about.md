@@ -10,8 +10,6 @@ redirect_from:
 
 ![about](/images/polignano_3.jpg)
 
-"I do not know from what associations the hippopotamus got into the chess board, but although the spectators were convinced that I was continuing to study the position, I, despite my humanitarian education, was trying at this time to work out: just how WOULD you drag a hippopotamus out of the marsh? I remember how jacks figured in my thoughts, as well as levers, helicopters, and even a rope ladder. After a lengthy consideration I admitted defeat as an engineer, and thought spitefully to myself: "Well, just let it drown!" And suddenly the hippopotamus disappeared."
-
 <!---
 Site-wide configuration
 ------
