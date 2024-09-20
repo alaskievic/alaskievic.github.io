@@ -16,7 +16,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 - - -
 
-**Commodity Booms and Structural Transformation: The Role of Input Use and Land Inequality**. 2021.
+**Commodity Booms and Structural Transformation: The Role of Input Use and Land Inequality**
 <br/>
 <small>[ <a href="#/" onclick="visib('combooms')">Abstract</a> | [Draft][master-thesis] </small>
 
@@ -27,9 +27,19 @@ This paper studies the effects of an agricultural commodity price boom on struct
 [master-thesis]:{{ site.baseurl }}{% link assets/files/booms_change_draft.pdf %}
 
 
+
+**Commodity Boom-Led Industrialization? The Case of Brazil Before WWI**, with Heitor  Pellegrina, Brock Rowberry, and Sebastian Sotelo
+<br/>
+
+**The Historical Deforestation of the Atlantic Forest**
+<br/>
+
+**The Effects of Environmental Place-Based Policies on Local Labor Markets: Evidence From the Inflation Reduction Act**, with Dasom I. Ham
+<br/>
+
 # <center> Monograph </center>
 
-**O Problema da Identificação na Macroeconometria: Uma Perspectiva Histórica**. 2018.
+**O Problema da Identificação na Macroeconometria: Uma Perspectiva Histórica**
 <br/>
 <small>[ <a href="#/" onclick="visib('monograph_fea')">Abstract</a> | [Monograph][monograph] </small>
 
@@ -40,8 +50,9 @@ O presente trabalho busca analisar as transformações pelas quais o pensamento 
 [monograph]:{{ site.baseurl }}{% link assets/files/monografia_andrei.pdf %}
 
 
+# <center> Work in Progress </center>
 
-
+- - -
 
 
 [//]: This java script is the button to show abstract
