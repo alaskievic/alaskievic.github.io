@@ -26,7 +26,7 @@ This paper studies the effects of an agricultural commodity price boom on struct
 
 [master-thesis]:{{ site.baseurl }}{% link assets/files/booms_change_draft.pdf %}
 
-
+# <center> Work in Progress </center>
 
 **Commodity Boom-Led Industrialization? The Case of Brazil Before WWI**, with Heitor  Pellegrina, Brock Rowberry, and Sebastian Sotelo
 <br/>
@@ -48,9 +48,6 @@ O presente trabalho busca analisar as transformações pelas quais o pensamento 
 </small><br><br/></div>
 
 [monograph]:{{ site.baseurl }}{% link assets/files/monografia_andrei.pdf %}
-
-
-# <center> Work in Progress </center>
 
 - - -
 
