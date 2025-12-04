@@ -26,7 +26,11 @@ This paper studies the effects of an agricultural commodity price boom on struct
 
 [master-thesis]:{{ site.baseurl }}{% link assets/files/booms_change_draft.pdf %}
 
+- - -
+
 # <center> Work in Progress </center>
+
+- - -
 
 **Commodity Boom-Led Industrialization? The Case of Brazil Before WWI**, with Heitor  Pellegrina, Brock Rowberry, and Sebastian Sotelo
 <br/>
@@ -37,7 +41,11 @@ This paper studies the effects of an agricultural commodity price boom on struct
 **The Effects of Environmental Place-Based Policies on Local Labor Markets: Evidence From the Inflation Reduction Act**, with Dasom I. Ham
 <br/>
 
+- - -
+
 # <center> Monograph </center>
+
+- - -
 
 **O Problema da Identificação na Macroeconometria: Uma Perspectiva Histórica**
 <br/>
